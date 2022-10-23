@@ -3,7 +3,7 @@ body {
 	background-color: white;
 	background-repeat: no-repeat;
 	font-family: Geneva, sans-serif;
-    text-align: center;
+    text-align: left;
 	display: grid;
 	grid-gap: 1em;
 	grid-template-rows: 
