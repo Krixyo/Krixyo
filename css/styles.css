@@ -2,7 +2,7 @@ body {
 	background-image: images/newskoologo.jpg;
 	background-color: white;
 	background-repeat: no-repeat;
-	font-family: Geneva, sans-serif;
+	font-family: verdana, Geneva, sans-serif;
     text-align: left;
 	display: grid;
 	grid-gap: 1em;
